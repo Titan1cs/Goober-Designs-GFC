@@ -1,0 +1,12 @@
+[18640:52180:0307/112225.621:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[18640:29960:0307/112226.042:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[18640:52180:0307/112226.173:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[45548:4372:0307/112232.769:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-FD864D7E0117FD9D98A1589845B522AA will be ignored
+[18640:8760:0307/112234.755:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[18640:52180:0307/112235.414:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[18640:52180:0307/112235.414:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[18640:52180:0307/112235.414:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[18640:52180:0307/112235.414:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[18640:8760:0307/112235.419:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[22184:47664:0307/112411.803:WARNING:sqlite_persistent_store_backend_base.cc(198)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:248 to client_task_runner_.
+[18640:52180:0307/112412.090:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
